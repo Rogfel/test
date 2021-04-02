@@ -25,7 +25,7 @@ d. Qual foi o critério utilizado para validação do modelo?
 Por que escolheu utilizar este método?
 
 Análise do performance do algoritmo e o RMSE aceitavel, análise gráfico dos valores mostrados.
-è mais aceitaveis erros que estejam por encima do valor real.
+è mais aceitaveis erros que estejam por encima do valor real. Tambem pode ser utilizado o resto do dataset para fazer essa validação.
 Escolhi esse método porque tem relação com o performance do modelo e as necesidades reais para colocar eles em produção.
 
 
